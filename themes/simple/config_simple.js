@@ -12,6 +12,5 @@ const CONFIG_SIMPLE = {
   MENU_TAG: true, // 显示标签
   MENU_ARCHIVE: true, // 显示归档
   MENU_SEARCH: true // 显示搜索
-  MENU_HOME: true // 显示搜索
 }
 export default CONFIG_SIMPLE
